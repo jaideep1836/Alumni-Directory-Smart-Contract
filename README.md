@@ -66,8 +66,8 @@ Our vision is to revolutionize alumni networks by leveraging blockchain technolo
 
 - `get-alumni-profile`: Retrieve profile information for any registered alumni
 - `get-connection`: Check connection status between two alumni
-- `get-total-alumni`: Get the total number of registered alumni
-- `is-alumni-registered`: Verify if a principal is registered as alumni
+- `get-total-alumni`: Get the total number of registered  alumni
+- `is-alumni-registered`: Verify if a principal is registered as  alumni
 
 ### Getting Started:
 
