@@ -55,7 +55,9 @@ Our vision is to revolutionize alumni networks by leveraging blockchain technolo
 
 ## Contract Address
 
-**Testnet Address**: `ST2EV4JDJQKWQV13H0VVHG66ABCTR1P8YR596CHR6.alumni-directory-contract`
+**Testnet Address**: `STGPBEW1DRVNA80A863AYGPGNJ91SYNBYKTZK0QB.alumni-directory`
+![image](https://github.com/user-attachments/assets/8195457b-3c35-47e8-b045-6fea6b949cfb)
+
 
 ### Key Functions:
 
